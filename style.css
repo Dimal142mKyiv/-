@@ -1,0 +1,117 @@
+.title{
+    color: rgb(253, 253, 255);
+    margin: 1px;
+    background-color: gold;
+   width: 1560px;
+   height:40px ;
+   font-size: 40px;
+}
+   
+.header{
+    background-color: blue;
+    width: 1560px;
+    height: 112px;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.img3{
+}
+.h3{
+    text-align: justify;
+    font-size: 25px;
+}
+.img2{
+     text-align: center;
+}
+.header2{
+    height: 50px;
+    width: 1560px;
+    background-color: gold;
+    text-align: center;
+    color: firebrick;
+    font-size: 25px;
+    
+}
+.img4{
+    height: 50px;
+    width: 1560px;
+    background-color: gold;
+    text-align: center;
+    color: firebrick;
+    font-size: 30px;
+}
+.img8{
+    height: 50px;
+    width: 1560px;
+    background-color: gold;
+    text-align: center;
+    color: firebrick;
+    font-size: 40px;
+
+}
+.h22{
+    text-align: center;
+    font-size: 25px;
+}
+.h23{
+    text-align: center;
+    font-size: 25px;
+}
+.inter{
+    font-size: 40px;
+}
+.png1{
+    text-align: center;
+    font-size: 25px;
+}
+.texxt{
+    font-size: 25px;
+    text-align: justify;
+}
+.h57{
+
+font-size: 40px;
+margin: 30px;
+}
+.pravila{
+    font-size: 25px;
+}
+.page-footer{
+    background-color: rgb(0, 0, 0);
+}
+.lal{
+    color: aliceblue;
+    margin: 10px;
+}
+.lal1{
+    color: aliceblue;
+    margin: 10px;
+}
+.lal2{
+    color: aliceblue;
+    margin: 10px;
+}
+.lal3{
+    color: aliceblue;
+    margin: 10px;
+}
+.white-text{
+    color: aliceblue;
+}
+.slider {
+     border: 0px solid black; 
+     width: 100px; height: 100px;
+      margin: 20px auto; 
+      overflow: hidden;}
+       .slider-line {
+            width: 100px; 
+            height: 100px;
+             display: flex;
+              background: orange;
+               position: relative;
+               left: 0; transition:
+                all ease 1s;}
+                .slide{
+                    text-align: center;
+                }
